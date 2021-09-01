@@ -1,0 +1,11 @@
+reports/
+tests_output/
+npm-debug.log.*
+node_modules
+node_modules
+images/
+semantic-dist/
+vendor/
+tests/
+.DS_Store
+.test.bats
