@@ -14,6 +14,5 @@
   "devDependencies": {
     "@fullstackio/live-server": "1.2.2",
     "concurrently": "^5.0.2"
-    
   }
 }
